@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hh/deeplearning_daily/cuda_test/src/print.cpp
+iostream
+-
+print.h
+/home/hh/deeplearning_daily/cuda_test/src/print.h
+
+/home/hh/deeplearning_daily/cuda_test/src/print.h
+

@@ -1,0 +1,9 @@
+/home/hh/deeplearning_daily/cuda_test/build/CMakeFiles/rebuild_cache.dir
+/home/hh/deeplearning_daily/cuda_test/build/CMakeFiles/app.dir
+/home/hh/deeplearning_daily/cuda_test/build/CMakeFiles/edit_cache.dir
+/home/hh/deeplearning_daily/cuda_test/build/cuda/bin/CMakeFiles/rebuild_cache.dir
+/home/hh/deeplearning_daily/cuda_test/build/cuda/bin/CMakeFiles/cube.dir
+/home/hh/deeplearning_daily/cuda_test/build/cuda/bin/CMakeFiles/edit_cache.dir
+/home/hh/deeplearning_daily/cuda_test/build/src/bin/CMakeFiles/rebuild_cache.dir
+/home/hh/deeplearning_daily/cuda_test/build/src/bin/CMakeFiles/print.dir
+/home/hh/deeplearning_daily/cuda_test/build/src/bin/CMakeFiles/edit_cache.dir

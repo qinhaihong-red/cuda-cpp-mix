@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11  -rdynamic CMakeFiles/app.dir/main.cpp.o  -o app cuda/bin/libcube.a src/bin/libprint.a -Wl,-Bstatic -lcudart_static -Wl,-Bdynamic -lpthread -ldl -lrt 

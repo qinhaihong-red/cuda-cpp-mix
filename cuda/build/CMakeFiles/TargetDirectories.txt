@@ -1,0 +1,3 @@
+/home/hh/deeplearning_daily/cuda_test/cuda/build/CMakeFiles/rebuild_cache.dir
+/home/hh/deeplearning_daily/cuda_test/cuda/build/CMakeFiles/cube.dir
+/home/hh/deeplearning_daily/cuda_test/cuda/build/CMakeFiles/edit_cache.dir
